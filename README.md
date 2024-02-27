@@ -5,4 +5,3 @@ Author-Faizan-e-Mustafa
 It is an gym members record managment syatem in fundament c++ 
 <br>
 In this i cannot use clases , vectors , arrays
-cc
